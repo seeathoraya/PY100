@@ -1,0 +1,6 @@
+name = input('Hi! What\'s your name? ')
+print(f'Nice to meet you, {name}')
+print()
+first_name = input("What's your first name? ")
+last_name = input("What's your last name? ")
+print(f'Hello, {first_name} {last_name}!')
